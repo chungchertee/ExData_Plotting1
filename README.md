@@ -1,3 +1,4 @@
+##Submission by Chung Cher Tee
 ## Introduction
 
 This assignment uses data from
@@ -57,6 +58,7 @@ functions.
 
 * Note that in this dataset missing values are coded as `?`.
 
+* <b>Note</b> :The R code starts with loading the data from "./household_power_consumption.txt"
 
 ## Making Plots
 
